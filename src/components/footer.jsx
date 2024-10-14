@@ -36,7 +36,7 @@ const Footer = () => {
   
             {/* Arrow Icon */}
             <svg
-            className="opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all duration-300 w-12 h-12 relative z-10"
+            className="opacity-0 translate-x-[-5px] translate-y-[5px] transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0 group-hover:translate-y-0 w-12 h-12 relative z-10"
             viewBox="0 0 24 24"
             fill="currentColor"
             xmlns="http://www.w3.org/2000/svg"
