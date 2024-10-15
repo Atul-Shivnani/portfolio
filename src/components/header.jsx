@@ -3,7 +3,7 @@ import AnimatedUnderline from "./animatedSpan";
 
 const Header = () => {
   return (
-    <div className="scrollbar-none justify-between bg-neutral-100 dark:bg-neutral-900 bg-opacity-75 dark:bg-opacity-75 flex p-4 hover:border-b border-purple-400 z-10 sticky top-0">
+    <div className="scrollbar-none justify-between bg-neutral-100 dark:bg-neutral-900 bg-opacity-75 dark:bg-opacity-75 flex p-4 hover:border-b border-purple-400 z-50 sticky top-0">
       <div className="flex text-2xl items-center ml-4 hover:font-semibold cursor-pointer">
         {/*<img src="../../avatar.jpg" className="rounded-full w-12 h-12" />*/}
         Atul Shivnani
